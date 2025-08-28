@@ -9,7 +9,7 @@ export default function TopResumeMistakes() {
       <article className="prose max-w-none mx-auto">
         <header>
           <h1>Top 10 Resume Mistakes (and How to Fix Them)</h1>
-          <Author name="ResuMate Team" url="/about" bio="Practical career advice and resume tips." />
+          <Author name="tailorCVs Team" url="/about" bio="Practical career advice and resume tips." />
           <p className="text-sm text-muted-foreground">{published}</p>
         </header>
 
@@ -56,3 +56,4 @@ export default function TopResumeMistakes() {
     </main>
   );
 }
+
