@@ -21,6 +21,8 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1112506196784687"
+     crossorigin="anonymous"></script>
         {/* Consent-aware analytics: loaded only when user accepts cookies */}
       </head>
       <body className={inter.className} suppressHydrationWarning>
