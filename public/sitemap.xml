@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
@@ -26,32 +25,3 @@
     <loc>https://example.com/blog/how-to-tailor-resume</loc>
   </url>
 </urlset>
-=======
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://example.com/</loc>
-  </url>
-  <url>
-    <loc>https://example.com/app</loc>
-  </url>
-  <url>
-    <loc>https://example.com/build</loc>
-  </url>
-  <url>
-    <loc>https://example.com/contact</loc>
-  </url>
-  <url>
-    <loc>https://example.com/privacy</loc>
-  </url>
-  <url>
-    <loc>https://example.com/terms</loc>
-  </url>
-  <url>
-    <loc>https://example.com/about</loc>
-  </url>
-  <url>
-    <loc>https://example.com/blog/how-to-tailor-resume</loc>
-  </url>
-</urlset>
->>>>>>> 7a6a771ddf7a19a1d3fcb1a8b54ceadcac987e06
