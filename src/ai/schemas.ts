@@ -41,7 +41,11 @@ export const GenerateTailoredResumeOutputSchema = z.object({
   otherSections: z.array(GenericSectionSchema).optional().describe("Any other sections from the resume, such as 'Skills' or 'Projects'."),
   fullResumeText: z
     .string()
+<<<<<<< HEAD
     .optional()
     .describe('The full, rewritten resume, tailored for the job description, as a single block of well-formatted text. This is a fallback and for previewing. Optional: may be omitted when only structured fields are returned.'),
+=======
+    .describe('The full, rewritten resume, tailored for the job description, as a single block of well-formatted text. This is a fallback and for previewing.'),
+>>>>>>> 7a6a771ddf7a19a1d3fcb1a8b54ceadcac987e06
 });
 export type GenerateTailoredResumeOutput = z.infer<typeof GenerateTailoredResumeOutputSchema>;
