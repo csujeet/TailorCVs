@@ -23,6 +23,7 @@ export default function RootLayout({
         <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
         <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1112506196784687"
      crossorigin="anonymous"></script>
+        <script src="https://analytics.ahrefs.com/analytics.js" data-key="RDhpE/7w2Cwwk45TkakfAQ" async></script>
         {/* Consent-aware analytics: loaded only when user accepts cookies */}
       </head>
       <body className={inter.className} suppressHydrationWarning>
